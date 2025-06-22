@@ -2,7 +2,7 @@
   "name": "bodyshape",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chayunfdl.github.io/gym-healthmate",
+  "homepage": "https://chayunfdl.github.io/healthmategym",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@heroicons/react": "^2.2.0",
