@@ -5,7 +5,7 @@ HealthMate Gym adalah sistem manajemen gym modern yang dirancang untuk membantu 
 1. Berbagai program latihan (strength, cardio, yoga, dll)
 2. Lokasi gym terdekat
 ## 🚀 Instalasi
-1. git clone https://github.com/chayunfdl/healthmate-gym.git
+1. git clone https://github.com/chayunfdl/healthmategym.git
 2. cd healthmate-gym
 ## 🛠️ Teknologi
 1. React.js
